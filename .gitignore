@@ -1,0 +1,7 @@
+WorkingAI/.venv/
+WorkingAI/logparser/threat_data/full.csv
+**/__pycache__/
+*.pyc
+.env
+*.rdb
+*.zip.part

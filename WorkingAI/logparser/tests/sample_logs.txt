@@ -1,0 +1,7 @@
+2026-05-08 11:00:00 EMAIL_CLK src_ip=192.168.1.106 user=frank action=email_click sender=billing@paypa1-secure.com subject="Invoice Overdue"
+2026-05-08 11:00:22 FILE_DL src_ip=192.168.1.106 user=frank action=download file_name=Invoice_84291.exe file_hash=44f302c48a3fd3d3d2c66d3b1ce6f6d6e8b02b7f9c1a5e6d7f8091a2b3c4d5e6
+2026-05-08 11:00:28 EXEC_PROC src_ip=192.168.1.106 user=frank action=execute file_name=Invoice_84291.exe
+2026-05-08 11:05:00 LOGIN_FAIL src_ip=203.0.113.55 user=admin action=failed_login reason=bad_password
+2026-05-08 11:05:03 LOGIN_FAIL src_ip=203.0.113.55 user=admin action=failed_login reason=bad_password
+2026-05-08 11:05:06 LOGIN_FAIL src_ip=203.0.113.55 user=admin action=failed_login reason=bad_password
+2026-05-08 11:05:09 LOGIN_FAIL src_ip=203.0.113.55 user=admin action=failed_login reason=bad_password
